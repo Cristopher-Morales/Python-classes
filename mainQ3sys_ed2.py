@@ -2,7 +2,7 @@
 """
 Created on Tue Jun  9 15:51:14 2020
 
-@author: 31626
+@author: Cristopher Morales Ubal
 """
 
 # -*- coding: utf-8 -*-
